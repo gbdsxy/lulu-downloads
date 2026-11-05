@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>水豚噜噜</title>
+        <item>
+            <title>1.13.0</title>
+            <pubDate>Thu, 05 Nov 2026 19:36:24 +0800</pubDate>
+            <link>https://github.com/gbdsxy/lulu-downloads</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>水豚噜噜 1.13.0 · 内测版</h2>
+<ul>
+  <li>新增应用内检查更新、手动下载和确认安装。</li>
+  <li>更新包及版本清单验证发布签名，专注中不重启。</li>
+  <li>保留橘子、已解锁动画、专注记录及本机设置。</li>
+  <li>适用于 Apple 芯片 Mac，macOS 13 或更新版本。</li>
+  <li>未经过 Apple Developer ID 签名或苹果公证。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/gbdsxy/lulu-downloads/releases/download/v1.13.0-beta.1/Lulu-1.13.0-beta.1-arm64.dmg" length="41494472" type="application/octet-stream" sparkle:edSignature="JUWTaQLwanEyueGL6pERTuKtwyvf2IZb4Qs5RkN0O/SQlamPgSVHBTXlf+dnYP3JONiCeuCmWRufxv5KAuJxCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: VH56AoCcMRXjkhhoS+Q83IlATCubRhl1n5NkqBP4MGMrq6bGMBurQQ4Nups4drY9t0NA9rCpznQ5eE0ZDYHMBQ==
+length: 1679
+-->
